@@ -1,5 +1,7 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72831&size=23&lines=Hello+there%2C+I'm+Vanessa;I'm+an+Android+Developer+based+in+Nairobi;Hit+me+up%2C+I'd+love+to+work+with+you!)](https://git.io/typing-svg)
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+
 <!--
 **vkamunya/vkamunya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
