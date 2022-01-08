@@ -4,7 +4,7 @@
  Welcome to Vanessa's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72831&size=23&lines=Hello+there%2C+I'm+Vanessa;I'm+an+Android+Developer+based+in+Nairobi;Hit+me+up%2C+I'd+love+to+work+with+you!)](https://git.io/typing-svg)
+###[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72831&size=23&lines=Hello+there%2C+I'm+Vanessa;I'm+an+Android+Developer+based+in+Nairobi;Hit+me+up%2C+I'd+love+to+work+with+you!)](https://git.io/typing-svg)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=vkamunya)
 
