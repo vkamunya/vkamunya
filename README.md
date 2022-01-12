@@ -10,7 +10,7 @@
 </p>
 <!--Socials-->
 <p align="center">
-  <a href="https://www.linkedin.com/in/theophiluskibet/"><img width="32px" alt="LinkedIn" title="Let's connect on LinkedIn" src="https://github.com/Chemutaiselim/svg/blob/main/linkedin.svg"/></a>  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/vanessa-kamunya-37a088142"><img width="32px" alt="LinkedIn" title="Let's connect on LinkedIn" src="https://github.com/Chemutaiselim/svg/blob/main/linkedin.svg"/></a>  &#8287;&#8287;&#8287;&#8287;&#8287;
  </p>
  
 
